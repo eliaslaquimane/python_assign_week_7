@@ -1,10 +1,3 @@
-# ============================================
-#           ELIAS ALBERTO LAQUIMANE
-#=============================================
-# Analyzing Data with Pandas and Matplotlib
-# Assignment Solution
-# ============================================
-
 ## Overview
 
 This assignment demonstrates how to analyze and visualize the classic Iris dataset using Python libraries: **pandas**, **matplotlib**, and **seaborn**.
