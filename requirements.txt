@@ -1,0 +1,5 @@
+pandas
+matplotlib
+seaborn
+ucimlrepo
+PyQt5==5.15.10
